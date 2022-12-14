@@ -61,6 +61,13 @@
   opacity: .5;
 }
 
+.like-icon:hover {
+  width: 3.25em;
+  height: 3.25em;
+  opacity: .8;
+  cursor: pointer;
+}
+
 /* main */
 .header {
   font-size: 2.5em;
@@ -172,4 +179,14 @@ h6 {
 .card-numbers-attachment {
   margin: 0 .5em;
   font-size: 1.5em;
+}
+
+.account-information:hover {
+  font-size: 1.1em; 
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #f3f3f3;
+  cursor: pointer;
 }
