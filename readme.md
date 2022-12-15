@@ -26,6 +26,7 @@
 
 ## Preview of App
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/113261334/207743517-236a9f5e-7130-4297-b6e0-8710a2d8792c.gif)
 
 
 ## Technologies
