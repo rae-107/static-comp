@@ -17,11 +17,15 @@
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 1. Fork this [Repository](https://github.com/rae-107/static-comp)
 
-2. Clone the repo 
-   ```sh
+2. Clone the repository 
+   ```
    git clone git@github.com:rae-107/static-comp.git
    ```   
-3. Or deploy wth [GitHub pages](https://rae-107.github.io/static-comp/) to view webpage
+3. Open with
+   ``` 
+   open index.html 
+   ```
+3. Or deploy webpage with [this link](https://rae-107.github.io/static-comp/)
 
 
 ## Preview of App
