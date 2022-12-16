@@ -55,24 +55,11 @@
   font-size: 1em;
 }
 
-.icon {
+.plant-icon {
   width: 1.4em;
   height: 1.4em;
   margin: 0px 10px 0px 20px;
   opacity: .5;
-  background-size: cover;
-}
-
-.indoor-icon { 
-  background-image: url('/assets/spider-plant.png');
-} 
-
-.outdoor-icon {
-  background-image: url('/assets/plant.png');
-}
-
-.succulent-icon {
-  background-image: url('/assets/cactus.png');
 }
 
 .like-icon:hover {
@@ -142,15 +129,21 @@ main {
 }
 
 .like-icon {
+  width: 2em;
+  height: 2em;
+  background-size: cover;
+}
+
+.circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 3em;
   height: 3em;
   background-color: white;
-  opacity: .6;
-  border: 3px solid rgba(255, 255, 255, .6);
   border-radius: 50px;
-  padding: 1em;
-  background-size: cover;
-  background-image: url('/assets/heart.png');
+  border: 3px solid rgb(255, 255, 255);
+  opacity: .6;
 }
 
 .likes {
